@@ -34,7 +34,7 @@ export default function Login() {
   };
 
   const goToSignup = () => {
-    navigate("/sign");
+    navigate("/");
   };
 
   return (
